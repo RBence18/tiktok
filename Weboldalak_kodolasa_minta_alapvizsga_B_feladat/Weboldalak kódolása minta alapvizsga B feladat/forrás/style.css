@@ -59,3 +59,9 @@ span{
 .kiemelt{
   color: #ff0050;
 }
+#cim{
+  border: solid, 10px, #00f2ea;
+  border-bottom-color: #ff0050;
+  border-right-color: #ff0050;
+  margin: 5px;
+}
